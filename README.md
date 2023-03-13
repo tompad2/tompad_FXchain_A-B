@@ -1,4 +1,4 @@
-# tompad_FXchain_A-B
+# tompad_FXchain_AB
 Reascript for A/B-ing FX chains in Reaper DAW 
 
 Use tompad_FXchain_A-B to compare different fx chains you create on a track.
